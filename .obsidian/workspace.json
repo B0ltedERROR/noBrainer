@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "9a367ed7254b69ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fe762b082a61d4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c7c4af105e301ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/daily_template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "186ff9047742573e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-11-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddf9c8e1a545b912",
+    "type": "split",
+    "children": [
+      {
+        "id": "6860897e4d350bdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a88c026145d114c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96c303abd84e3974",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3817fb83d83605cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b61c3345ecaba65",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba8ddeb7f8b2eef2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44f922371c9f4526",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2024-11-22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "85f96c7713296979",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/2024-11-22.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f53e5a7bf4998b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "75825486062ab675",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/2024-11-22.md"
+              }
+            }
+          },
+          {
+            "id": "214fb70f05678942",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "186ff9047742573e",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "daily/2024-11-22.md",
+    "Untitled.md",
+    "daily",
+    "templates/daily_template.md",
+    "README.md",
+    "templates"
+  ]
+}
