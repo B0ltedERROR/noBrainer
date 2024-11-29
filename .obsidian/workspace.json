@@ -8,27 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c7c4af105e301ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/daily_template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "186ff9047742573e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-11-22.md",
+                "file": "templates/Daily_TEMPLATE.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Daily_TEMPLATE"
+            }
+          },
+          {
+            "id": "7cb9e5aa56bb78e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heath/Goals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Goals"
             }
           }
         ],
@@ -52,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-11-22.md",
+                "file": "templates/Daily_TEMPLATE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Daily_TEMPLATE"
             }
           },
           {
@@ -115,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-11-22.md",
+                "file": "templates/Daily_TEMPLATE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Daily_TEMPLATE"
             }
           },
           {
@@ -129,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-11-22.md"
-              }
+                "file": "templates/Daily_TEMPLATE.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Daily_TEMPLATE"
             }
           },
           {
@@ -147,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -169,14 +189,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "186ff9047742573e",
+  "active": "7cb9e5aa56bb78e5",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "templates/Daily_TEMPLATE.md",
+    "Heath/Goals.md",
     "daily/2024-11-22.md",
-    "Untitled.md",
-    "daily",
     "templates/daily_template.md",
     "README.md",
+    "Heath",
+    "Untitled 1.md",
+    "daily",
     "templates"
   ]
 }
