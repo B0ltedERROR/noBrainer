@@ -2,6 +2,9 @@
 * Make a plan, set rules
 * find recipes
 * meal prepping
+* meal tracker app, or system
+* Alternatives for problem foods 
+	* [[Low Carbohydrate Alternatives]]
 ### Strength
 * dumb bells workouts
 * jump rope

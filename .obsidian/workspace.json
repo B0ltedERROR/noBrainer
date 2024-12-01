@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "186ff9047742573e",
+            "id": "501ab38a3fdb1a04",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "7cb9e5aa56bb78e5",
+            "id": "fc2614bb7f471725",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +35,7 @@
               "title": "Goals"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,10 +188,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7cb9e5aa56bb78e5",
+  "active": "501ab38a3fdb1a04",
   "lastOpenFiles": [
-    "templates/Daily_TEMPLATE.md",
+    "Heath/Recipe ideas/Chinese Cabbage & Bacon.md",
+    "Heath/Workout Tracking/241130 Dumbbell Only.md",
+    "Heath/Low Carbohydrate Alternatives.md",
+    "Heath/Workout Tracking",
+    "Heath/Recipe ideas",
     "Heath/Goals.md",
+    "templates/Daily_TEMPLATE.md",
     "daily/2024-11-22.md",
     "templates/daily_template.md",
     "README.md",
